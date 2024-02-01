@@ -1,6 +1,5 @@
 # Todo_CodeBase
-
-## 구성 요소
+### 구성 요소
 - ViewController: 사용자 인터페이스와 사용자 인터랙션을 관리
 - ProfileViewController: 사용자 프로필 정보 표시
 - Model: 앱의 데이터와 비즈니스 로직을 관리
@@ -9,7 +8,8 @@
 - CoreData: 복잡한 데이터 구조나 대량의 데이터 저장 및 관리
 - UserDefaults: 간단한 사용자 설정값 저장
 
-## UserDefaults와 CoreData의 차이점
+---
+### UserDefaults와 CoreData의 차이점
 #### UserDefaults
 - 간단한 사용자 설정이나 소량의 데이터 저장에 적합
 키-값 쌍으로 데이터를 저장
