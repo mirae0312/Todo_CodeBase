@@ -1,0 +1,6 @@
+framework module Pods_TodoList_CodeBaseUI {
+  umbrella header "Pods-TodoList_CodeBaseUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
